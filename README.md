@@ -28,7 +28,7 @@ Sou autónomo por natureza: gosto de resolver problemas pela minha própria inic
 Testes Manuais · Testes de Regressão · Testes Funcionais · Smoke Testing · Testes de Aceitação (UAT) · Testes de API · Testes de Performance · Bug Tracking · Bug Reporting · Test Cases · STLC · SDLC
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pycharm,pytest,vscode,selenium,mysql,postgres,postman,html,css,git,github,linux,apple,windows,androidstudio,figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=python,pycharm,vscode,selenium,mysql,postgres,postman,html,css,git,github,linux,apple,windows,androidstudio,figma,ps,ai" />
 </p>
 
 <p align="left">
