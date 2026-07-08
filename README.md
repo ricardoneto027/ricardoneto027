@@ -50,16 +50,7 @@ Testes Manuais · Testes de Regressão · Testes Funcionais · Smoke Testing · 
 | 🛒 **[Urban Grocers – Testes de API REST](https://github.com/ricardoneto027/tripleten-qa-projects/tree/main/sprint-4-urban-grocers-api)** | 21 casos de teste para 2 endpoints REST, com técnicas de valores-limite e classes de equivalência. 7 bugs documentados no Jira com rastreabilidade completa; collection Postman exportada para o GitHub. | Postman, Jira, GitHub |
 | 🐧 **[Urban Routes – Linux, SSH e SQL](https://github.com/ricardoneto027/tripleten-qa-projects/tree/main/sprint-6-linux-sql)** | Análise de logs via SSH com `grep`, isolando erros 400/500. Consultas SQL sobre base de dados PostgreSQL de táxis de Chicago, identificando discrepância crítica: apenas 5.529 dos 10.550 táxis planeados disponíveis. | Linux, SSH, PostgreSQL, SQL |
 
-<--! ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardoneto027&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardoneto027&hide_border=true" height="165"/>
-</p>
-
---- -->
+---
 
 ### 📫 Contacto
 
