@@ -28,11 +28,10 @@ Sou autónomo por natureza: gosto de resolver problemas pela minha própria inic
 Testes Manuais · Testes de Regressão · Testes Funcionais · Smoke Testing · Testes de Aceitação (UAT) · Testes de API · Testes de Performance · Bug Tracking · Bug Reporting · Test Cases · STLC · SDLC
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,selenium,mysql,postgres,html,css,git,github,linux,androidstudio,figma,ps,ai,Jira" />
+  <img src="https://skillicons.dev/icons?i=python,pycharm,pytest,vscode,selenium,mysql,postgres,postman,html,css,git,github,linux,apple,windows,androidstudio,figma,ps,ai" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
