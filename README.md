@@ -1,59 +1,62 @@
-<h1 align="center">Olá, sou o Ricardo Santos 👋</h1>
-<h3 align="center">Do Design para o Quality Assurance — a construir pontes entre a estética e a estabilidade do software 🎨➡️🐞</h3>
+<h1 align="center">Olá, sou o Ricardo Peres 👋</h1>
+<h3 align="center">Do Design Gráfico para o Quality Assurance — a aplicar o mesmo olhar atento ao detalhe na validação de software 🎨➡️🐞</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Junior+QA+Analyst;Automa%C3%A7%C3%A3o+com+Python+%26+Selenium;Testes+de+API+com+Postman;Ex-Designer+Gr%C3%A1fico+%7C+NERVE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=QA+Analyst;Testes+Funcionais+%26+Testes+de+API;Bug+Reporting+%7C+Jira+%7C+Postman;Ex-Designer+Gr%C3%A1fico" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou **designer gráfico** com percurso profissional na **NERVE – Atelier de Design**, atualmente em transição de carreira para **Software Testing / QA**.
+Profissional em transição estruturada para **Qualidade de Software (QA)**, com formação técnica no bootcamp da **TripleTen** e background em **Design Gráfico** (Licenciatura em Design e Produção Gráfica, ISEC) — uma área que reforça a atenção ao detalhe visual e à validação de interfaces.
 
-Depois de anos a garantir que o *pixel certo* estava no sítio certo, decidi aplicar o mesmo olhar crítico e atenção ao detalhe a encontrar o *bug certo* antes que ele chegue ao utilizador. Estou a completar o bootcamp de **QA Engineering na TripleTen** (9 sprints), com o objetivo de ingressar numa equipa de QA ainda em 2026.
+Sou autónomo por natureza: gosto de resolver problemas pela minha própria iniciativa e de procurar conhecimento sem depender de indicações constantes.
 
-- 🔭 Atualmente a finalizar o bootcamp **TripleTen QA** (Python, Selenium, SQL, API Testing)
-- 🎯 Diferencial: background em **UI/UX e Design** aplicado a testes funcionais e de usabilidade
-- 🌱 Próximos passos: certificação **ISTQB**, e aprofundar **JavaScript** e **Java**
-- 💬 Já trabalhei com **Jira** (reporte de bugs) e **Postman** (testes de API) em contexto de bootcamp e projetos práticos
-- 📍 Baseado em Lisboa, Portugal
-- ⚡ Curiosidade: já resolvi desde erros de BIOS Secure Boot a configurações de placas Wi-Fi 6E — gosto de perceber *porque é que as coisas partem*
+- 🔭 A concluir o **Bootcamp de Analista de QA** na TripleTen (02/2026 – 08/2026)
+- 🧪 Experiência prática em **test analysis, test design, testes manuais e testes de API**, com foco em aplicações web e mobile
+- 🎯 Diferencial: background em Design Gráfico aplicado à atenção ao detalhe visual
+- 🌱 Próximos passos: certificação **ISTQB**, aprofundar **JavaScript** e **Java**
+- 💬 Reporte estruturado de bugs em **Jira**, testes de API em **Postman**, consultas **SQL** sobre PostgreSQL
+- 📍 Baseado em Lisboa, Portugal · disponível para regime remoto ou híbrido
 
 ---
 
 ### 🧰 Stack & Ferramentas
 
+**QA & Testing**
+Testes Manuais · Testes de Regressão · Testes Funcionais · Smoke Testing · Testes de Aceitação (UAT) · Testes de API · Testes de Performance · Bug Tracking · Bug Reporting · Test Cases · STLC · SDLC
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,selenium,postgres,html,css,js,git,github,linux,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,selenium,mysql,postgres,html,css,git,github,linux,androidstudio,figma,ps,ai" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 </p>
+
+**Metodologias:** Agile · Scrum · Kanban &nbsp;|&nbsp; **APIs:** REST · SOAP
 
 ---
 
 ### 📌 Projetos em destaque
 
-| Projeto | Descrição | Stack |
+| Projeto | Descrição | Ferramentas |
 |---|---|---|
-| 🚕 **Urban Routes – Functional Testing** | Testes funcionais end-to-end de uma aplicação de pedido de viagens | Python, Selenium, Pytest |
-| 🛒 **Urban Grocers – API Testing** | Suite de testes de API para plataforma de encomendas online | Postman, Python |
-| 🐧 **Urban Routes – Linux/SSH/SQL** | Análise de logs via SSH e consultas SQL sobre base de dados PostgreSQL | Linux, SSH, SQL |
-
-> 📂 Explora os repositórios fixados abaixo para veres o código, os relatórios de bugs e a documentação de cada projeto.
+| 🚕 **[Urban Routes – Testes Funcionais Web](https://github.com/ricardoneto027/tripleten-qa-projects/tree/main/sprint-3-urban-routes)** | Checklists e casos de teste para reserva, locação e pagamento em 2 browsers/resoluções distintas. 32 bugs documentados no Jira, incluindo falha crítica que impedia cancelar uma corrida — relatório final recomendou não lançar a versão testada. | Testes manuais, Jira, Chrome, Firefox |
+| 🛒 **[Urban Grocers – Testes de API REST](https://github.com/ricardoneto027/tripleten-qa-projects/tree/main/sprint-4-urban-grocers-api)** | 21 casos de teste para 2 endpoints REST, com técnicas de valores-limite e classes de equivalência. 7 bugs documentados no Jira com rastreabilidade completa; collection Postman exportada para o GitHub. | Postman, Jira, GitHub |
+| 🐧 **[Urban Routes – Linux, SSH e SQL](https://github.com/ricardoneto027/tripleten-qa-projects/tree/main/sprint-6-linux-sql)** | Análise de logs via SSH com `grep`, isolando erros 400/500. Consultas SQL sobre base de dados PostgreSQL de táxis de Chicago, identificando discrepância crítica: apenas 5.529 dos 10.550 táxis planeados disponíveis. | Linux, SSH, PostgreSQL, SQL |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ricardoneto027&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardoneto027&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -61,14 +64,14 @@ Depois de anos a garantir que o *pixel certo* estava no sítio certo, decidi apl
 ### 📫 Contacto
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/ricardo-peres027" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com">
+  <a href="mailto:ricardo.neto027@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center"><i>"Se o design é sobre fazer as coisas parecerem certas, o QA é sobre garantir que elas realmente estão."</i></p>
+<p align="center"><i>"O mesmo olhar que garante que um layout está pixel-perfect é o que garante que uma funcionalidade está bug-free."</i></p>
