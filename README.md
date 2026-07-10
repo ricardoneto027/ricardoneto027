@@ -9,15 +9,15 @@
 
 ### 🚀 Sobre mim
 
-Profissional em transição estruturada para **Qualidade de Software (QA)**, com formação técnica no bootcamp da **TripleTen** e background em **Design Gráfico** (Licenciatura em Design e Produção Gráfica, ISEC) — uma área que reforça a atenção ao detalhe visual e à validação de interfaces.
+Profissional em transição estruturada para **Quality Assurance (QA)**, com formação técnica no bootcamp da **TripleTen** e background em **Design Gráfico** (Licenciatura em Design e Produção Gráfica, ISEC) — uma área que reforça a atenção ao detalhe visual e à validação de interfaces.
 
 Sou autónomo por natureza: gosto de resolver problemas pela minha própria iniciativa e de procurar conhecimento sem depender de indicações constantes.
 
 - 🔭 A concluir o **Bootcamp de Analista de QA** na TripleTen (02/2026 – 08/2026)
 - 🧪 Experiência prática em **test analysis, test design, testes manuais e testes de API**, com foco em aplicações web e mobile
-- 🎯 Diferencial: background em Design Gráfico aplicado à atenção ao detalhe visual
-- 🌱 Próximos passos: certificação **ISTQB**, aprofundar **JavaScript** e **Java**
-- 💬 Reporte estruturado de bugs em **Jira**, testes de API em **Postman**, consultas **SQL** sobre PostgreSQL
+- 🎯 Diferencial: background em Design Gráfico aplicando atenção aos detalhes
+- 🌱 Próximos passos: certificação **ISTQB**, aprofundar **Python**, **JavaScript** e **Java** para automação de testes, aprofundar conhecimento em **CI/CD**
+- 💬 Report estruturado de bugs em **Jira**, testes de API em **Postman**, consultas **SQL** com PostgreSQL
 - 📍 Baseado em Lisboa, Portugal · disponível para regime remoto ou híbrido
 
 ---
@@ -28,13 +28,12 @@ Sou autónomo por natureza: gosto de resolver problemas pela minha própria inic
 Testes Manuais · Testes de Regressão · Testes Funcionais · Smoke Testing · Testes de Aceitação (UAT) · Testes de API · Testes de Performance · Bug Tracking · Bug Reporting · Test Cases · STLC · SDLC
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pycharm,vscode,selenium,mysql,postgres,postman,html,css,git,github,linux,apple,windows,androidstudio,figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=python,pycharm,selenium,vscode,postgres,postman,html,css,git,github,linux,apple,windows,androidstudio,figma,ps,ai" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 </p>
 
 **Metodologias:** Agile · Scrum · Kanban &nbsp;|&nbsp; **APIs:** REST · SOAP
