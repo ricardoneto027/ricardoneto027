@@ -2,7 +2,7 @@
 <h3 align="center">Do Design Gráfico para o Quality Assurance — a aplicar o mesmo olhar atento ao detalhe na validação de software 🎨➡️🐞</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=QA+Analyst;Testes+Funcionais+%26+Testes+de+API;Bug+Reporting+%7C+Jira+%7C+Postman;Ex-Designer+Gr%C3%A1fico" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=QA+Analyst+%7C+Functional+Tester;Testes+Funcionais+%26+Testes+de+API;Automa%C3%A7%C3%A3o+com+Python+%26+Selenium;Bug+Reporting+%7C+Jira+%7C+Postman;Ex-Designer+Gr%C3%A1fico" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,11 +13,12 @@ Profissional em transição estruturada para **Quality Assurance (QA)**, com for
 
 Sou autónomo por natureza: gosto de resolver problemas pela minha própria iniciativa e de procurar conhecimento sem depender de indicações constantes.
 
-- 🔭 A concluir o **Bootcamp de Analista de QA** na TripleTen (02/2026 – 08/2026)
-- 🧪 Experiência prática em **test analysis, test design, testes manuais e testes de API**, com foco em aplicações web e mobile
-- 🎯 Diferencial: background em Design Gráfico aplicando atenção aos detalhes
-- 🌱 Próximos passos: certificação **ISTQB**, aprofundar **Python**, **JavaScript** e **Java** para automação de testes, aprofundar conhecimento em **CI/CD**
-- 💬 Report estruturado de bugs em **Jira**, testes de API em **Postman**, consultas **SQL** com PostgreSQL
+- 🔭 A concluir o **Bootcamp de Analista de QA** na TripleTen (02/2026 – 08/2026) — Sprint 8 (automação end-to-end com **Python + Selenium WebDriver**) já submetido, com ajustes finais em curso após feedback dos tutores
+- 🔎 **Em candidatura ativa** a vagas de QA / Functional Tester em Lisboa
+- 🧪 Experiência prática em **test analysis, test design, testes manuais, testes de API e automação de testes**, com foco em aplicações web e mobile
+- 🎯 Diferencial: background em Design Gráfico aplicado à validação visual (UI/UX testing) e documentação funcional clara
+- 🌱 Próximos passos: certificação **ISTQB Foundation Level** (estudo até out/2026, exame em nov/2026), seguido de Python avançado, PostgreSQL, CI/CD (GitHub Actions/GitLab), Katalon e JMeter
+- 💬 Report estruturado de bugs em **Jira**, testes de API em **Postman**, consultas **SQL** com PostgreSQL, automação com **Selenium**
 - 📍 Baseado em Lisboa, Portugal · disponível para regime remoto ou híbrido
 
 ---
@@ -25,7 +26,7 @@ Sou autónomo por natureza: gosto de resolver problemas pela minha própria inic
 ### 🧰 Stack & Ferramentas
 
 **QA & Testing**
-Testes Manuais · Testes de Regressão · Testes Funcionais · Smoke Testing · Testes de Aceitação (UAT) · Testes de API · Testes de Performance · Bug Tracking · Bug Reporting · Test Cases · STLC · SDLC
+Testes Manuais · Testes de Regressão · Testes Funcionais · Smoke Testing · Testes de Aceitação (UAT) · Testes de API · Automação de Testes (Selenium) · Testes de Performance · Bug Tracking · Bug Reporting · Test Cases · STLC · SDLC
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pycharm,selenium,vscode,postgres,postman,html,css,git,github,linux,apple,windows,androidstudio,figma,ps,ai" />
@@ -47,6 +48,7 @@ Testes Manuais · Testes de Regressão · Testes Funcionais · Smoke Testing · 
 | 🚕 **[Urban Routes – Testes Funcionais Web](https://github.com/ricardoneto027/tripleten-qa-projects/tree/main/sprint-3-urban-routes)** | Checklists e casos de teste para reserva, locação e pagamento em 2 browsers/resoluções distintas. 32 bugs documentados no Jira, incluindo falha crítica que impedia cancelar uma corrida — relatório final recomendou não lançar a versão testada. | Testes manuais, Jira, Chrome, Firefox |
 | 🛒 **[Urban Grocers – Testes de API REST](https://github.com/ricardoneto027/tripleten-qa-projects/tree/main/sprint-4-urban-grocers-api)** | 21 casos de teste para 2 endpoints REST, com técnicas de valores-limite e classes de equivalência. 7 bugs documentados no Jira com rastreabilidade completa; collection Postman exportada para o GitHub. | Postman, Jira, GitHub |
 | 🐧 **[Urban Routes – Linux, SSH e SQL](https://github.com/ricardoneto027/tripleten-qa-projects/tree/main/sprint-6-linux-sql)** | Análise de logs via SSH com `grep`, isolando erros 400/500. Consultas SQL sobre base de dados PostgreSQL de táxis de Chicago, identificando discrepância crítica: apenas 5.529 dos 10.550 táxis planeados disponíveis. | Linux, SSH, PostgreSQL, SQL |
+| 🤖 **Urban Routes – Automação End-to-End com Selenium** *(a publicar após aprovação)* | Suite de automação em Python cobrindo o fluxo completo de reserva de viagem: definição de rota, seleção de plano, preenchimento de telefone e cartão, comentário para o motorista e pedidos adicionais. Estrutura de dados de teste, helpers e classe `TestUrbanRoutes` com Pytest + Selenium WebDriver. | Python, Pytest, Selenium WebDriver, PyCharm |
 
 ---
 
