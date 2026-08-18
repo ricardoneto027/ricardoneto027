@@ -13,12 +13,12 @@ Profissional em transição estruturada para **Quality Assurance (QA)**, com for
 
 Sou autónomo por natureza: gosto de resolver problemas pela minha própria iniciativa e de procurar conhecimento sem depender de indicações constantes.
 
-- 🔭 A concluir o **Bootcamp de Analista de QA** na TripleTen (02/2026 – 08/2026) — Sprint 8 (automação end-to-end com **Python + Selenium WebDriver**) já submetido, com ajustes finais em curso após feedback dos tutores
+- 🔭 **Bootcamp de Analista de QA** na TripleTen (02/2026 – 08/2026) concluído com sucesso, com nota máxima no projeto final ✅
 - 🔎 **Em candidatura ativa** a vagas de QA / Functional Tester em Lisboa
 - 🧪 Experiência prática em **test analysis, test design, testes manuais, testes de API e automação de testes**
 - 💬 Report estruturado de bugs em **Jira**, testes de API em **Postman**, consultas **SQL** com PostgreSQL, automação com **Selenium**
 - 🎯 Diferencial: background em Design Gráfico aplicado à validação visual (UI/UX testing) e documentação funcional clara
-- 🌱 Próximos passos: certificação **ISTQB Foundation Level** (estudo até out/2026, exame em nov/2026), seguido de Python avançado, PostgreSQL, CI/CD (GitHub Actions/GitLab), Katalon e JMeter
+- 🌱 Próximos passos: certificação **ISTQB Foundation Level** (estudo até out/2026, exame em nov/2026), seguido de Python avançado, PostgreSQL, CI/CD (GitHub Actions/GitLab), Cucumber e JMeter
 - 📍 Baseado em Lisboa, Portugal · disponível para regime remoto ou híbrido
 
 ---
