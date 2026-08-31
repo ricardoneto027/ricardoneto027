@@ -18,7 +18,7 @@ Sou autónomo por natureza: gosto de resolver problemas pela minha própria inic
 - 🧪 Experiência prática em **test analysis, test design, testes manuais, testes de API e automação de testes**
 - 💬 Report estruturado de bugs em **Jira**, testes de API em **Postman**, consultas **SQL** com PostgreSQL, automação com **Selenium**
 - 🎯 Diferencial: background em Design Gráfico aplicado à validação visual (UI/UX testing) e documentação funcional clara
-- 🌱 Próximos passos: certificação **ISTQB Foundation Level** (estudo até out/2026, exame em nov/2026), seguido de Python avançado, PostgreSQL, CI/CD (GitHub Actions/GitLab), Cucumber e JMeter
+- 🌱 Próximos passos: certificação **ISTQB Foundation Level**, Playwright framework, Python avançado, PostgreSQL, CI/CD (GitHub Actions/GitLab), Cucumber & Gherkin, Azure Foundations
 - 📍 Baseado em Lisboa, Portugal · disponível para regime remoto ou híbrido
 
 ---
@@ -42,14 +42,15 @@ Testes Manuais · Testes de Regressão · Testes Funcionais · Smoke Testing · 
 ---
 
 ### 📌 Projetos em destaque
-
+ 
 | Projeto | Descrição | Ferramentas |
 |---|---|---|
+| 🛴 **[Urban Scooter – Testes Web, Mobile e API (Projeto Final)](https://github.com/ricardoneto027/tripleten-qa-projects/tree/main/sprint-final-urban-scooter)** | Projeto final do bootcamp: 126 casos de teste desenhados cobrindo interface web (cross-browser, particionamento em classes de equivalência e valores-limite), app mobile (Android) e backend/API (Postman + validação em PostgreSQL). 20 bugs documentados no Jira, com destaque para falhas de validação de dados nos endpoints de criação de entregadores. | Testes manuais, Postman, Jira, Android Studio, PostgreSQL, Figma |
 | 🚕 **[Urban Routes – Testes Funcionais Web](https://github.com/ricardoneto027/tripleten-qa-projects/tree/main/sprint-3-urban-routes)** | Checklists e casos de teste para reserva, locação e pagamento em 2 browsers/resoluções distintas. 32 bugs documentados no Jira, incluindo falha crítica que impedia cancelar uma corrida — relatório final recomendou não lançar a versão testada. | Testes manuais, Jira, Chrome, Firefox |
 | 🛒 **[Urban Grocers – Testes de API REST](https://github.com/ricardoneto027/tripleten-qa-projects/tree/main/sprint-4-urban-grocers-api)** | 21 casos de teste para 2 endpoints REST, com técnicas de valores-limite e classes de equivalência. 7 bugs documentados no Jira com rastreabilidade completa; collection Postman exportada para o GitHub. | Postman, Jira, GitHub |
 | 🐧 **[Urban Routes – Linux, SSH e SQL](https://github.com/ricardoneto027/tripleten-qa-projects/tree/main/sprint-6-linux-sql)** | Análise de logs via SSH com `grep`, isolando erros 400/500. Consultas SQL sobre base de dados PostgreSQL de táxis de Chicago, identificando discrepância crítica: apenas 5.529 dos 10.550 táxis planeados disponíveis. | Linux, SSH, PostgreSQL, SQL |
 | 🤖 **[Urban Routes – Automação End-to-End com Selenium](https://github.com/ricardoneto027/tripleten-qa-projects/tree/main/sprint-8-automation-selenium)** | Suite de automação em Python cobrindo o fluxo completo de reserva de viagem: definição de rota, seleção de plano, preenchimento de telefone e cartão, comentário para o motorista e pedidos adicionais. Estrutura de dados de teste, helpers e classe `TestUrbanRoutes` com Pytest + Selenium WebDriver. | Python, Pytest, Selenium WebDriver, PyCharm |
-
+ 
 ---
 
 ### 📫 Contacto
