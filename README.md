@@ -13,7 +13,7 @@ Profissional em transição estruturada para **Quality Assurance (QA)**, com for
 
 Sou autónomo por natureza: gosto de resolver problemas pela minha própria iniciativa e de procurar conhecimento sem depender de indicações constantes.
 
-- 🔭 **Bootcamp de Analista de QA** na TripleTen (02/2026 – 08/2026) concluído com sucesso, com nota máxima no projeto final ✅
+- 🔭 **Bootcamp de Analista de QA** na TripleTen (02/2026 – 08/2026) concluído com sucesso, com nota máxima no projeto final
 - 🔎 **Em candidatura ativa** a vagas de QA / Functional Tester em Lisboa
 - 🧪 Experiência prática em **test analysis, test design, testes manuais, testes de API e automação de testes**
 - 💬 Report estruturado de bugs em **Jira**, testes de API em **Postman**, consultas **SQL** com PostgreSQL, automação com **Selenium**
