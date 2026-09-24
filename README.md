@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mim
 
-Profissional em transição estruturada para **Quality Assurance (QA)**, com formação técnica no bootcamp da **TripleTen** e background em **Design Gráfico** (Licenciatura em Design e Produção Gráfica, ISEC) - uma área que reforça a atenção ao detalhe visual e à validação de interfaces.
+Profissional em transição estruturada para **Quality Assurance (QA)**, com formação técnica no bootcamp da **TripleTen** e background em **Design Gráfico** (Frequência da Licenciatura em Design e Produção Gráfica, ISEC) - uma área que reforça a atenção ao detalhe visual e à validação de interfaces.
 
 Sou autónomo por natureza: gosto de resolver problemas pela minha própria iniciativa e de procurar conhecimento sem depender de indicações constantes.
 
